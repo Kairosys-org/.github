@@ -1,7 +1,4 @@
 
-
-  <img src="https://kairosys.org/wp-content/uploads/2024/11/kairos-logo-light-kirosys.org_.webp" alt="Kairosys Logo" width="300"/>
-
 # Welcome to Kairosys' GitHub
 
 Welcome to the official GitHub of **Kairosys**! We’re a dynamic software company dedicated to building impactful digital solutions, from web and mobile applications to SEO and ASO services. Explore our repositories to discover our work, tools, and innovations that make a difference in the digital world.
